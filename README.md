@@ -9,5 +9,17 @@ The aim of the project is the development of an autonomous mesh network under re
     •  1.4  Design of the radioMesh hardware Loradio for the Kommunikator app                  
     •  1.5  Design of the radioMesh based on ESP32 WLAN for the Kommunikator app for high speed Mesh 
     •  1.6 Implementing decentralized, anonymous user identification DID with database structure 
-    •  1.7 development/implantation of decentral, digital blockchain with resilience against power/internet blackout  Mina, Hydra, beam for DID, registration , identification etc??? External help.   
+    •  1.7 development/implantation of decentral, digital blockchain with resilience against power/internet blackout  Mina, Hydra, beam for DID, registration           , identification etc??? External help.   
     •  1.8 planing of external security audit of encryption used in the network core
+    
+### Step2 : Pretest with small group   
+    • 2.1 New Beta release of Loradio for Kommunikator with optimized outline/case for use on   smartphones
+    • 2.2 New beta release of Kommunikator with group function  and payment option
+    • 2.3 Real test with bigger test group
+
+### Step3. Real mass test after app launch and recruiting user      
+    • 3.1 Process issues from external security review and results from beta test
+    • 3.2 Publish developer and user documentation
+    • 3.3 Optional: porting the app to new , faster programming language with external help
+    • 3.4 public launch of 1.0 release of Kommunikator app with new LoRadio for mobile handy use (maybe before speed porting so save time)
+    • 3.5 Wide area test of the capability's of real world mesh networks. With min 200 users over large distances in urban and open landscape and result               analyzing
