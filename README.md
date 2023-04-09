@@ -18,24 +18,23 @@ If you have questions or want to join the effort, please contact us via Email an
 
 There you`ll find suggestions on things that need to be made in order to let our meshnetwork conquer the world.
 ## Roadmap and Milestones
-### Step 1: Planning phase
-    • 1.1 Create requirements document + threat modeling, project plan with tasks            
-    • 1.2 Create technical design, diagram as technical overview of all components            
-    • 1.3 First alpha release of the Communicator app as central component                   
-    • 1.4 Design of the radioMesh hardware Loradio for the Communicator app                  
-    • 1.5 Design of the radioMesh based on ESP32 WLAN for the Communicator app for high speed Mesh 
-    • 1.6 Implementing decentralized, anonymous user identification DID with database structure 
+### Step 1: Development of hardware and software for a radio-meshnet
+    • 1.1 First alpha release of the Communicator mobile app as central enduser component on Android smartphones, Linux and Windows            
+    • 1.2 Design of the Radio-Meshnet hardware device LoRadio868/169 for the Communicator app            
+    • 1.3 Beta-release of Communicator app with group function, marketplace integration and payment option                   
+    • 1.4 Beta-release of LoRadio868/169 device for Communicator app with optimized casing for use on smartphones.                  
+    • 1.5 Design of a ESP32 WLAN for the Communicator app for a local high-speed Meshnet
+    • 1.6 Implementing decentralized, anonymous user registration and identification/authentication with SSI/DID technology (database structure)
     • 1.7 development/implantation of decentral, digital blockchain with resilience against power/internet blackout  Mina, Hydra, beam for DID, registration           , identification etc??? External help.   
-    • 1.8 planing of external security audit of encryption used in the network core
+    • 1.8 - Development and implementation of a decentralized API-Console to the public Hydraledger blockchain with resilience against blackouts of power
+            grid and internet
+          - Optimizing Morpheus node performance for mass adoption of SSI/DID transactions
+          - Implement python3 SDK for wallet, Hydraledger and Morpheus functions relevant to Communicator app
+          - Meetings and competence transfer supporting integration of the python SDK
     
-### Step 2: Pretest with small group   
-    • 2.1 New Beta release of Loradio for Communicator with optimized outline/case for use on   smartphones
-    • 2.2 New beta release of Communicator with group function  and payment option
-    • 2.3 Real test with bigger test group
-
-### Step 3: Real mass test after app launch and recruiting user      
-    • 3.1 Process issues from external security review and results from beta test
-    • 3.2 Publish developer and user documentation
-    • 3.3 Optional: porting the app to new , faster programming language with external help
-    • 3.4 public launch of 1.0 release of Communicator app with new LoRadio for mobile handy use (maybe before speed porting so save time)
-    • 3.5 Wide area test of the capability's of real world mesh networks. With min 200 users over large distances in urban and open landscape and result               analyzing
+### Step 2: Real world test of radio-meshnet after app launch and recruiting users   
+    • 2.1 Preparing and publishing developer and user documentation
+    • 2.2 Optional: porting the mobile app GUI from the less performant python environment to a faster performing programming language
+    • 2.3 Finalisation and public launch of 1.0 release of Communicator app with new LoRadio for smartphone use     
+    • 2.4 Wide area test of the capability and scalability of the developed meshnet technology. With min. 200 users over large distances in urban and  
+          rural environment.
